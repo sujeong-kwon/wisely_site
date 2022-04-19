@@ -13,7 +13,8 @@ a.common-btn{
   line-height: 60px;
   text-align: center;
   border-radius: 5px;
-  background: #0055b8;
+  /* background: #0055b8; */
+  background: lightblue;
 }
 
 /* 메인 배너 */
